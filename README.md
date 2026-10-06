@@ -3,7 +3,7 @@ My Flood Vulnerability Mapping Project for Nsukka LGA, Enugu State
 
 # My Project Brief
 
-## Which settlements in Nsukka LGA of Enugu State sit in low-lying land near watercourse?
+## Which settlements in Nsukka LGA of Enugu State sit in low-lying land below 200m?
 
 ## The Data I need
 - LGA Boundaries - GRID3 - https://data.grid3.org/datasets/GRID3::grid3-nga-operational-lga-boundaries/about - Shapefile, ~ 2.62 MB
