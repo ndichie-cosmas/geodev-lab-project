@@ -14,3 +14,4 @@ My Flood Vulnerability Mapping Project for Nsukka LGA, Enugu State
 ## Month 2: Preparation of Environment and Early Python
 - Week 5: setup python, vs code and the terminal. hello.py runs
 - Week 6: set up the project with uv and added pandas. check.py prints the pandas version
+- Week 7: analyse.py reads wards.csv, converts each area and classifies each ward
